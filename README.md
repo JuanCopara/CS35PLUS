@@ -68,3 +68,25 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
 11. Utilizaremos el almacenamiento de usuario para guardar nuestras apps. Para ello usaremos el siguiente comando:
     ```bash
     adb push 'nombredelacarpeta'/ /user_data/
+12. Ingresemos al shell
+    ```bash
+    adb shell
+13. Ingresamos a la carpeta que hemos cargado a la radio:
+    ```bash
+    cd /user_data/'nombredelacarpeta'
+14. Le damos permisos al apk.
+    ```bash
+    chmod 644 'nombredelapk.apk'
+15. Debemos crear un link en el sistema de la radio para que aparezca en el menu.
+    ```bash
+    cd /system/app/
+    ln -s /user_data/'nombredelacarpeta'/'nombredelapk.apk' /system/app/
+16. Debemos dar permiso al link creado para que aparezca en el menu principal
+    ```bash
+    chmod 644 nombredelapk.apk
+17. Reiniciamos el dispositivo mediante adb.
+    ```bash
+    exit
+    adb reboot
+18. Si todo salio bien la radio se reiniciara y en el menu aparecera la applicacion.
+    
