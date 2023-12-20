@@ -117,7 +117,7 @@ Quiero expresar mi sincero agradecimiento a los siguientes grupos y personas cuy
 - **Grupos de Propietarios de Changan CS35 Plus en Filipinas y Costa Rica:**
   Un agradecimiento especial a los miembros activos de los grupos de propietarios de Changan CS35 Plus en Filipinas y Costa Rica. Su participación directa y pruebas detalladas de estos procesos fueron esenciales para validar y mejorar la efectividad de este metodo.
 
-- **Grupo de Propietarios de Changan CS35 Plus en Perú:**
+- **Grupo de Propietarios de Changan CS35 Plus Perú:**
   Un reconocimiento especial al grupo de propietarios en Perú por su apoyo integral, no solo relacionado con este proyecto, sino por su constante respaldo en diversos ámbitos. Su colaboración ha sido valiosa para toda la comunidad de propietarios en el país.
 
 Su compromiso y contribuciones han sido fundamentales en cada etapa de este proyecto. Agradezco sinceramente la colaboración de cada uno de ustedes.
