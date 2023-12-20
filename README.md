@@ -84,7 +84,7 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
     ```bash
     exit
     adb reboot
-18. Si todo salio bien la radio se reiniciara y en el menu aparecera la applicacion.
+18. Si todo salio bien la radio se reiniciara y en el menu aparecera la aplicacion.
 
 
 ## descubrimientos
