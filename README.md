@@ -13,7 +13,7 @@ Este proyecto tiene como objetivo ofrecer una solución no oficial para la insta
 2. [Preparar APK](#prepararapk)
 3. [Uso](#uso)
 4. [Contribución](#contribución)
-5. [Licencia](#licencia)
+5. [Descubrimientos](#descrubrimientos)
 
 ## Requisitos
 
@@ -40,9 +40,6 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
 6. En la carpeta lib ubicar si se encuentra las carpetas arm**v7, copiarlas y cambiarles el nombre a arm.
 7. Borrar las demas carpetas.
 
-**Tener en cuenta que las aplicaciones que requieran servicios externos no van a funcionar y corren el riesgo de congelar la radio**
-**Se tiene un espacio limitado de memoria y almacenamiento en la radio si esta se llegase a llenar hara que la radio no vuelva a iniciar**
-**Se recomienda solo usar 1 app a la vez**
 
 ## Uso
 
@@ -89,4 +86,16 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
     exit
     adb reboot
 18. Si todo salio bien la radio se reiniciara y en el menu aparecera la applicacion.
-    
+
+
+## descubrimientos
+
+- Tener en cuenta que las aplicaciones que requieran servicios externos no van a funcionar y corren el riesgo de congelar la radio
+- Se tiene un espacio limitado de memoria y almacenamiento en la radio si esta se llegase a llenar hara que la radio no vuelva a iniciar
+- Se recomienda solo usar 1 app a la vez
+- Intentar instalar Autokit para carplay con el uso del dongle carlinkkit no ha resultado en diferentes intentos, inclusive dio como resultado a el primer fallo catastrofico quedando la radio inoperativa.
+- Se ha observado que la radio puede dar como sintoma de que esta empezando a queda sin almacenamiento cuando la interfaz es bastante lenta y empieza a dar errores de bluetooth, se recomienda quitar todas las modificacion inmediatamente y realizar un reestablecimiento de fabrica para evitar una falla catastrofica.
+- Se ha encontrado que existen diferentes revisiones del hardware de la radio, en multiples casos puede que este metodo no funcione.
+- En caso se llegase a sufrir de una falla catastrofica y la pantalla se quede atorada en el logo de inicio, se recomienda reiniciar presionando los botones de sonido hasta que la pantalla se apague, si no resulta sera necesario quitar la radio fisicamente y dejarla completamente desconectada por lo menos un dia para volver a intentar.
+- Existen diferentes apps que utilizan servicios para funcionar correctamente (google map, youtube, crunchyroll u otras de streaming) debido a las limitantes de este metodo no es posible hacerlas funcionar.
+- La radio no cuenta con GPS, por lo tanto instalar apps de navegacion es completamente inutil.
