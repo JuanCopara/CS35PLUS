@@ -1,6 +1,6 @@
 # Instalar Apps en Changan CS35 plus
 
-Este proyecto tiene como objetivo ofrecer una solución no oficial para la instalación de aplicaciones en la pantalla de fábrica del automóvil Changan CS35 Plus. Ten en cuenta que este proceso implica modificar la configuración del sistema de fábrica y se debe realizar bajo tu propio riesgo.
+Este proyecto tiene como objetivo ofrecer una solución no oficial para la instalación de aplicaciones en la pantalla de fábrica del automóvil Changan CS35 Plus. Los pasos detallados a continuación fueron recopilados y unificados a partir de diversas fuentes, incluyendo foros y comunidades en línea, con aportes adicionales y experimentación por mi parte para optimizar y mejorar la solución con el objetivo de ofrecer una solución integral.
 
 ## Advertencia
 
@@ -12,8 +12,7 @@ Este proyecto tiene como objetivo ofrecer una solución no oficial para la insta
 1. [Requisitos](#requisitos)
 2. [Preparar APK](#prepararapk)
 3. [Uso](#uso)
-4. [Contribución](#contribución)
-5. [Descubrimientos](#descrubrimientos)
+4. [Descubrimientos](#descrubrimientos)
 
 ## Requisitos
 
