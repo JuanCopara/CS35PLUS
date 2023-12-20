@@ -87,7 +87,7 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
 18. Si todo salio bien la radio se reiniciara y en el menu aparecera la aplicacion.
 
 
-## descubrimientos
+## Descubrimientos
 
 - Tener en cuenta que las aplicaciones que requieran servicios externos no van a funcionar y corren el riesgo de congelar la radio
 - Se tiene un espacio limitado de memoria y almacenamiento en la radio si esta se llegase a llenar hara que la radio no vuelva a iniciar
