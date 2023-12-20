@@ -44,7 +44,7 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
 
 1. Con la radio encendida, inserta el usb con la musica y espera a que este empiece a reproducir.
 2. Una vez este reproduciendo la musica, ingresa a la opcion de marcado telefonico de la radio e ingresa el siguiente nuemero #*#*888 y presiona llamar.
-3. Debera aparecer un teclado numerico, ingresa el siguiente codigo 963215.
+3. Debera aparecer un teclado numerico, ingresa el siguiente codigo 369875.
 4. Debera aparecer el menu avanzado, en la segunda opcion selecciona la opcion de ADB.
 5. La musica deberia cortarse hasta este punto, retira el dispositivo usb e inserta el cable usb.
 6. conecta el cable a la laptop e ingresa a la carpeta ADB.
