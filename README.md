@@ -23,7 +23,7 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
   
 - **Usb:** Un dispositivo usb con musica sera de ayuda para acelerar el proceso de conexion. 
   
-- **Cable usb A a A o C to A :** Será necesario un cable USB para conectar tu dispositivo al sistema del vehículo, se recomienda usar el tipo A para conectar al carro y que el cable sea de buena calidad. Esto es crucial, ya que algunos cables de baja calidad pueden no ser compatibles con ciertos procesos, como ADB (Android Debug Bridge).
+- **Cable usb A a A o C a A :** Será necesario un cable USB para conectar tu dispositivo al sistema del vehículo, se recomienda usar el tipo A para conectar al carro y que el cable sea de buena calidad. Esto es crucial, ya que algunos cables de baja calidad pueden no ser compatibles con ciertos procesos, como ADB (Android Debug Bridge).
 
 - **Laptop Windows:** Será necesario una laptop con sistema operativo windows con puertos usb c o a dependiendo del tipo de cable a usar.
 
