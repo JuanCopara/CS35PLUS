@@ -98,3 +98,4 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
 - En caso se llegase a sufrir de una falla catastrofica y la pantalla se quede atorada en el logo de inicio, se recomienda reiniciar presionando los botones de sonido hasta que la pantalla se apague, si no resulta sera necesario quitar la radio fisicamente y dejarla completamente desconectada por lo menos un dia para volver a intentar.
 - Existen diferentes apps que utilizan servicios para funcionar correctamente (google map, youtube, crunchyroll u otras de streaming) debido a las limitantes de este metodo no es posible hacerlas funcionar.
 - La radio no cuenta con GPS, por lo tanto instalar apps de navegacion es completamente inutil.
+- Se obtuvo resultados muy positivos con la aplicacion de headunit reload para usar android auto, se recomienda comprar el app y usar un extractor de apk para utilizarlo.
