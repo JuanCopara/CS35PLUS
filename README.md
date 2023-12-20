@@ -13,6 +13,7 @@ Este proyecto tiene como objetivo ofrecer una solución no oficial para la insta
 2. [Preparar APK](#prepararapk)
 3. [Uso](#uso)
 4. [Descubrimientos](#descubrimientos)
+5. [Agradecimiento](#agradecimientos)
 
 ## Requisitos
 
@@ -99,3 +100,17 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
 - Existen diferentes apps que utilizan servicios para funcionar correctamente (google map, youtube, crunchyroll u otras de streaming) debido a las limitantes de este metodo no es posible hacerlas funcionar.
 - La radio no cuenta con GPS, por lo tanto instalar apps de navegacion es completamente inutil.
 - Se obtuvo resultados muy positivos con la aplicacion de headunit reload para usar android auto, se recomienda comprar el app y usar un extractor de apk para utilizarlo.
+
+## Agradecimientos
+
+Quiero expresar mi sincero agradecimiento a los siguientes grupos y personas cuyas contribuciones y conocimientos han sido fundamentales para el desarrollo y mejora de este proyecto:
+
+- **XDA Developers:**
+  Gracias a la comunidad de desarrolladores en XDA por su dedicación y compartir valiosos conocimientos relacionados con el proceso de instalación, que han influido positivamente en la evolución de este instalador.
+
+- **DmitriiRn (Foro Drive2.ru):**
+  Un agradecimiento especial a DmitriiRn del foro Drive2.ru por su generosidad al proporcionar datos clave y detalles esenciales. Su participación ha sido fundamental para enriquecer y guiar el proceso.
+
+- **Foro 4PDA.to:**
+  Agradecemos al foro 4PDA.to por brindar información valiosa en el ámbito del hardware y software. Aunque el énfasis estuvo en otros aspectos, su contribución ha sido apreciada y complementaria.
+
