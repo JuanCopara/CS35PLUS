@@ -4,12 +4,12 @@ Este proyecto tiene como objetivo ofrecer una solución no oficial para la insta
 
 ## Advertencia
 
-**¡IMPORTANTE! Este proyecto es un esfuerzo no oficial y no está respaldado ni garantizado por el fabricante del vehículo. La modificación del sistema puede tener consecuencias no deseadas, incluida la pérdida de garantía y el riesgo de malfuncionamiento. Úsalo con precaución y asume plena responsabilidad por cualquier resultado.**
+**¡IMPORTANTE! Este proyecto es un esfuerzo no oficial y no está respaldado ni garantizado por el fabricante del vehículo. La modificación del sistema puede tener consecuencias no deseadas, incluida la pérdida de garantía, el riesgo de malfuncionamiento y daño permanente al dispositivo. Úsalo con precaución y asume plena responsabilidad por cualquier resultado.**
 
 
 ## Índice
 
-1. [Requisitos](#instalación)
+1. [Requisitos](#requisitos)
 2. [Preparar APK](#prepararapk)
 3. [Uso](#uso)
 4. [Contribución](#contribución)
