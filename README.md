@@ -27,7 +27,7 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
 
 - **Laptop Windows:** Será necesario una laptop con sistema operativo windows con puertos usb c o a dependiendo del tipo de cable a usar.
 
-- **ADB:** Asegúrate de tener instaladas las herramientas necesarias, como un entorno de desarrollo y las dependencias específicas. Consulta la sección de instalación para obtener detalles.
+- **ADB:** Puedes descargar ADB aca:https://developer.android.com/studio/releases/platform-tools?hl=es-419 .
 
 - **Conocimientos Básicos:** Es recomendable tener conocimientos básicos sobre codigo bash.
 
