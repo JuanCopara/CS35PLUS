@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo ofrecer una solución no oficial para la insta
 1. [Requisitos](#requisitos)
 2. [Preparar APK](#prepararapk)
 3. [Uso](#uso)
-4. [Descubrimientos](#descrubrimientos)
+4. [Descubrimientos](#descubrimientos)
 
 ## Requisitos
 
