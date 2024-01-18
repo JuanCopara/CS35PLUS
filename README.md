@@ -51,7 +51,7 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
 6. conecta el cable a la laptop e ingresa a la carpeta ADB.
 7. Ingresa el siguiente comando
    ```bash
-   abd devices
+   adb devices
 8. Debera aparecer un dispositivo conectado
 9. Ingresa el siguiente comando:
     ```bash
