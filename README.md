@@ -91,6 +91,7 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
 ## Descubrimientos
 
 - Tener en cuenta que las aplicaciones que requieran servicios externos no van a funcionar y corren el riesgo de congelar la radio
+- La aplicacion Headunit al principio dio buenos resultados, no obstante, ha demostrado en varios casos que puede ocasionar que la radio empiece a fallar y quede inoperativa. A la fecha no se recomienda el uso de este apk.
 - Se tiene un espacio limitado de memoria y almacenamiento en la radio si esta se llegase a llenar hara que la radio no vuelva a iniciar
 - Se recomienda solo usar 1 app a la vez
 - Se ha logrado instalar exitosamente autokit con el dongle carlinkit, este ha demostrado una gran estabilidad hasta el momento.
@@ -98,7 +99,8 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
 - Se ha encontrado que existen diferentes revisiones del hardware de la radio, en multiples casos puede que este metodo no funcione.
 - En caso se llegase a sufrir de una falla catastrofica y la pantalla se quede atorada en el logo de inicio, se recomienda reiniciar presionando los botones de sonido hasta que la pantalla se apague, si no resulta sera necesario quitar la radio fisicamente y dejarla completamente desconectada por lo menos un dia para volver a intentar.
 - Existen diferentes apps que utilizan servicios para funcionar correctamente (google map, youtube, crunchyroll u otras de streaming) debido a las limitantes de este metodo no es posible hacerlas funcionar.
-- La radio no cuenta con GPS, por lo tanto instalar apps de navegacion es completamente inutil.
+- La radio en algunas revisiones cuenta con un modulo GPS
+- Se observo que la radio cuenta con telemetria que se conecta a servidores de china en los cuales informa la posicion, velocidad y posicion de la palanca de cambios. Se aconseja no conectarlo a una red wifi para evitar el envio de estos datos.
 - Se obtuvo resultados muy positivos con la aplicacion de headunit reload para usar android auto, se recomienda comprar el app y usar un extractor de apk para utilizarlo.
 
 ## Agradecimientos
