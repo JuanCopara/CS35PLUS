@@ -93,7 +93,7 @@ Antes de comenzar con la instalación, asegúrate de cumplir con los siguientes 
 - Tener en cuenta que las aplicaciones que requieran servicios externos no van a funcionar y corren el riesgo de congelar la radio
 - Se tiene un espacio limitado de memoria y almacenamiento en la radio si esta se llegase a llenar hara que la radio no vuelva a iniciar
 - Se recomienda solo usar 1 app a la vez
-- Intentar instalar Autokit para carplay con el uso del dongle carlinkkit no ha resultado en diferentes intentos, inclusive dio como resultado a el primer fallo catastrofico quedando la radio inoperativa.
+- Se ha logrado instalar exitosamente autokit con el dongle carlinkit, este ha demostrado una gran estabilidad hasta el momento.
 - Se ha observado que la radio puede dar como sintoma de que esta empezando a queda sin almacenamiento cuando la interfaz es bastante lenta y empieza a dar errores de bluetooth, se recomienda quitar todas las modificacion inmediatamente y realizar un reestablecimiento de fabrica para evitar una falla catastrofica.
 - Se ha encontrado que existen diferentes revisiones del hardware de la radio, en multiples casos puede que este metodo no funcione.
 - En caso se llegase a sufrir de una falla catastrofica y la pantalla se quede atorada en el logo de inicio, se recomienda reiniciar presionando los botones de sonido hasta que la pantalla se apague, si no resulta sera necesario quitar la radio fisicamente y dejarla completamente desconectada por lo menos un dia para volver a intentar.
